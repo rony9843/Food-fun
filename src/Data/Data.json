@@ -1,0 +1,21 @@
+[
+    {
+        "cat":"Sandwich",
+        "option":[
+            {
+                "name":"Zinger Shrimp Supreme",
+                "image":"https://kfcprodnecmsimage.azureedge.net/cmsimages/ksa/imagestemp/110022.png",
+                "price" : 24.50
+        
+        },
+            {
+                "name":"Twister Sandwich - Original",
+                "image":"https://kfcprodnecmsimage.azureedge.net/cmsimages/ksa/imagestemp/110003.png",
+                "price" : 15
+        
+        }
+           
+        ]
+    }
+    
+]
